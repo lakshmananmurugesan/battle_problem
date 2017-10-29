@@ -1,3 +1,5 @@
+require './helper_methods.rb'
+
 class Problem
   # Declarations
   BATTLE_DAYS = 3
